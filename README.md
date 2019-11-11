@@ -27,5 +27,5 @@ How to use
 
 Examples
 -----
-![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/ISO-DATA.gif)
-![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/K-MEANS.gif)
+[GIF to ISODATA](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/ISODATA.gif)
+[GIF to K-MEANS](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/K-MEANS.gif)
