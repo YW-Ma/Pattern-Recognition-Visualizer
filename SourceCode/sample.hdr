@@ -1,0 +1,24 @@
+ENVI
+description = {
+  File Resize Result, x resize factor: 0.134626, y resize factor: 0.134510.
+  [Fri May 18 15:26:08 2018]}
+samples = 250
+lines   = 221
+bands   = 4
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+sensor type = Unknown
+byte order = 0
+x start = 4384
+y start = 5406
+map info = {UTM, 1.000, 1.000, 780975.000, 2510865.000, 2.2283957037e+002, 2.2303174485e+002, 49, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_49N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",111.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+pixel size = {2.22839570e+002, 2.23031745e+002, units=Meters}
+band names = {
+ Resize (Resize (ROI Resize (ROI Resize (Layer (Band 1:LC08_L1TP_122044_20131129_20170428_01_T1_B5.TIF):SHENZHEN):SHENZHEN_SUB):DATA):DATA), 
+ Resize (Resize (ROI Resize (ROI Resize (Layer (Band 1:LC08_L1TP_122044_20131129_20170428_01_T1_B4.TIF):SHENZHEN):SHENZHEN_SUB):DATA):DATA), 
+ Resize (Resize (ROI Resize (ROI Resize (Layer (Band 1:LC08_L1TP_122044_20131129_20170428_01_T1_B3.TIF):SHENZHEN):SHENZHEN_SUB):DATA):DATA), 
+ Resize (Resize (ROI Resize (ROI Resize (Layer (Band 1:LC08_L1TP_122044_20131129_20170428_01_T1_B10.TIF):SHENZHEN):SHENZHEN_SUB):DATA):DATA)}
