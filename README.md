@@ -28,4 +28,4 @@ How to use
 Examples
 -----
 ![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/ISO-DATA processing.gif)
-![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/K-MEANS processing.gif)
+
