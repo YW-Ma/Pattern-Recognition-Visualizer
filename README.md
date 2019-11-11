@@ -23,5 +23,5 @@ Install
 
 How to use
 -----
-
+![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/help.jpg)
 
