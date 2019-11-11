@@ -23,5 +23,9 @@ Install
 
 How to use
 -----
+![](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/help.jpg)
 
-
+Examples
+-----
+[GIF to ISODATA](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/ISODATA.gif) \
+[GIF to K-MEANS](https://github.com/YW-Ma/Pattern-Recognition-Visualizer/blob/master/ResultsSample/K-MEANS.gif)
